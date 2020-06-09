@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shilei Hugo Site</title>
+    <link>https://hanshilei.github.io/post/</link>
+    <description>Recent content in Posts on Shilei Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 09 Jun 2020 17:21:34 +0800</lastBuildDate>
+    
+	<atom:link href="https://hanshilei.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First a</title>
+      <link>https://hanshilei.github.io/post/k8s/</link>
+      <pubDate>Tue, 09 Jun 2020 17:21:34 +0800</pubDate>
+      
+      <guid>https://hanshilei.github.io/post/k8s/</guid>
+      <description>一、Kubernetes 发展历史 1. 资源管理器框架：MESOS -&amp;gt; Docker Swarm -&amp;gt; Kubernetes MESOS : APACHE下的分布式资源管理框架，2019-5 Twitter 抛弃 MESOS 转向 Kubernetes Docker Swarm : Docker的集群管理工具，2019-07 阿里云从列表中剔除 Docker Swarm Kubernetes : 开源容器集群管理系统，由Google公司开发，它的前身是 Borg 系统。用于自</description>
+    </item>
+    
+  </channel>
+</rss>
