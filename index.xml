@@ -20,5 +20,14 @@
       <description>一、Kubernetes 发展历史 1. 资源管理器框架：MESOS -&amp;gt; Docker Swarm -&amp;gt; Kubernetes MESOS : APACHE下的分布式资源管理框架，2019-5 Twitter 抛弃 MESOS 转向 Kubernetes Docker Swarm : Docker的集群管理工具，2019-07 阿里云从列表中剔除 Docker Swarm Kubernetes : 开源容器集群管理系统，由Google公司开发，它的前身是 Borg 系统。用于自</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://hanshilei.github.io/about/</link>
+      <pubDate>Tue, 09 Jun 2020 17:18:08 +0800</pubDate>
+      
+      <guid>https://hanshilei.github.io/about/</guid>
+      <description>shilei a </description>
+    </item>
+    
   </channel>
 </rss>
